@@ -7,7 +7,6 @@ new example
 
 fdsfasdfdfadsfsdf
 
-fdaf
-fdsaf
 
-fdsaf
+
+the file 
